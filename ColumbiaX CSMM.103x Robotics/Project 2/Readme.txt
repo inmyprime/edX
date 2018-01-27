@@ -1,0 +1,2 @@
+source setup_project2.sh
+rosrun project2_solution solution.py

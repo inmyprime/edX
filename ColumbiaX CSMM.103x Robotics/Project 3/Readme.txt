@@ -1,0 +1,2 @@
+source setup_project3.sh
+rosrun forward_kinematics solution.py
